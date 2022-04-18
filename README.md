@@ -1,0 +1,1 @@
+script para receber a cotaçao do atualizada do dollar
